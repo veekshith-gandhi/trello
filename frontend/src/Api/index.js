@@ -23,6 +23,5 @@ export const createNewRow = async (data) => {
 };
 
 export const removeColumn = async (id) => {
-  const result = await axios.delete(`${API_ROOT}/column/${id}`);
-  console.log(result);
+  await axios.delete(`${API_ROOT}/column/${id}`);
 };
