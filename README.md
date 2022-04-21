@@ -32,9 +32,9 @@ All the images, icons, and links have taken from the original website (https://t
 
 ## Landing Page
 
-![LandingPage](https://i.imgur.com/YBHhM7H.png)
+![LandingPage](https://i.imgur.com/HL2HTgn.png)
 
-This is the landing page of our website. You can see and choose all latest and trending top products from here.
+This is the landing page of our website. You can signup here.
 
 ## SignUp Page
 
@@ -46,19 +46,13 @@ You can signup with our website from here .
 
 ![TodoBoard](https://i.imgur.com/WQ3J1M3.png)
 
-Here, you can choose a category of products whatever you want.
+Here, you can Add, Delete, Edit and upadte your Todo's.
 
 ## Checklist Page
 
 ![ProductsPage](https://i.imgur.com/XA6nM0z.png)
 
-Here, you can see all the products and whenever you hover on any product you will see ADD TO CART option, bu clicking the button you can add the products to cart.
-
-## Summary Page
-
-![ThankyouPage](https://i.imgur.com/KN20lSu.png)
-
-Finally, Here you can see your order details and summary and by clicking continue you will be redirected to home page and you can continue the shopping.
+Here, you can see all the Activites of the user 
 
 # Limitations
 
