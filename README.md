@@ -40,7 +40,7 @@ This is the landing page of our website. You can signup here.
 
 ![SignUpPage](https://i.imgur.com/PoKMnwh.png)
 
-You can signup with our website from here .
+You can signup with our website from here using Google Authentication.
 
 ## Todo Board
 
